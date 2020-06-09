@@ -21,7 +21,7 @@
   color: #000000;
 }
 #header4-1 .btn {
-  font-size: 16px;
+  font-size: 12px;
 }
 #header4-1 H1 {
   font-size: 60px;
@@ -45,12 +45,16 @@
 }
 #msg-box4-6 .mbr-section-title {
   font-size: 30px;
+  color: #fbfbfb;
 }
 #msg-box4-6 .lead P {
   font-size: 16px;
 }
 #msg-box4-6 .btn {
   font-size: 16px;
+}
+#msg-box4-6 .lead {
+  color: #ffffff;
 }
 #form1-4 .mbr-section-title {
   font-size: 30px;

@@ -20,7 +20,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 17,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -106,7 +107,7 @@
           },
           "title": "Rahul Jain",
           "text": "12th pass-out of CMS, Lucknow.<br>Born on 02nd Sept, 2002.<br>Beginner Programmer, VFX Artist, 3d Animator. Car guy.<br>Currently at New Ratna Kendra, Bhootnath.<br>Pursuing BBA.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-6\" data-toolbar=\"-mbrBtnMove\">New Ratna Kendra</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -115,7 +116,7 @@
           "_anchor": "header4-1",
           "_styles": {
             ".btn": {
-              "font-size": "16px"
+              "font-size": "12px"
             },
             "H1": {
               "font-size": "60px"
@@ -349,7 +350,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "34",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
@@ -361,8 +362,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -398,13 +399,17 @@
           "_anchor": "msg-box4-6",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#fbfbfb"
             },
             ".lead P": {
               "font-size": "16px"
             },
             ".btn": {
               "font-size": "16px"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           }
         },
@@ -422,7 +427,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contact Form",
+          "title": "Contact Me!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a>",
           "form": {
             "action": "jainrahul2902@gmail.com",
@@ -477,7 +482,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Anonymous Message</a>",
-          "text1": "<strong>Address</strong><br>Brahm Nagar,&nbsp;<br>Sitapur Road,<br>Lucknow.<br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:rahul@therj.in\">rahul@therj.in</a><br>Email: <a href=\"mailto:jainrahul2902@gmail.com\">jainrahul2902@gmail.com</a><br>\nPhone: <a href=\"tel:+916394599722\">+91 63945 99722</a><br>SMS<a href=\"sms:+916394599722\">: +91 63945 99722</a><br>Whatsapp: <a href=\"https://wa.me/+916394599722\">+91 63945 99722</a><a href=\"tel:+916394599722\"><br></a>",
+          "text1": "<strong>Address</strong><br>Brahm Nagar,&nbsp;<br>Sitapur Road,<br>Lucknow.<br><br>\n<strong>Contact</strong><br>\nEmail: <a href=\"mailto:rahul@therj.in\">rahul@therj.in</a><br>Email: <a href=\"mailto:jainrahul2902@gmail.com\">jainrahul2902@gmail.com</a><br>\nPhone: <a href=\"tel:+916394599722\">+91 63945 99722</a><br>SMS<a href=\"sms:+916394599722\">: +91 63945 99722</a><br>Whatsapp: <a href=\"https://wa.me/+916394599722\">+91 63945 99722</a><a href=\"tel:+916394599722\"><br></a>",
           "text2": "<strong>Social Media</strong><ul><li><a href=\"https://link.therj.in/ig\">Instagram</a></li><li><a href=\"https://link.therj.in/fb\">Facebook</a></li></ul>",
           "form": {
             "title": "MESSAGE",
