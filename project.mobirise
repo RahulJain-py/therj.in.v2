@@ -106,7 +106,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Rahul Jain",
-          "text": "12th pass-out of CMS, Lucknow.<br>Born on 02nd Sept, 2002.<br>Beginner Programmer, VFX Artist, 3d Animator. Car guy.<br>Currently at New Ratna Kendra, Bhootnath.<br>Pursuing BBA.",
+          "text": "12th pass-out of CMS, Lucknow.<br>Born on 02nd Sept, 2002.<br>Beginner Programmer, VFX Artist, 3d Animator. Car guy.<br>Currently at New Ratna Kendra, Bhootnath.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-6\" data-toolbar=\"-mbrBtnMove\">New Ratna Kendra</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>",
           "alias": "purity/components",
           "_tags": [
@@ -160,7 +160,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
@@ -179,7 +179,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Photo Gallery",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "text": "Slideshow of some photos of Rahul Jain.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
           "_tags": [
